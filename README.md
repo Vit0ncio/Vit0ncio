@@ -1,9 +1,6 @@
 # 👋 Hello World, me chamo Vitor!
 
-Boas vindas ao meu **GitHub!**  
-Sou aspirante a desenvolvedor **Fullstack**, com uma maior base em **back-end**.  
-Na data que estou fazendo esta descrição, tenho **17 anos**.  
-Atualmente vivo em **Jaboatão dos Guararapes, Pernambuco, Brasil.**  
+Boas vindas ao meu **GitHub!**   
 
 ## 🖥️ Coisas que uso para programar:
 
