@@ -14,5 +14,5 @@ Atualmente vivo em **Jaboatão dos Guararapes, Pernambuco, Brasil.**
 
 ## 👨‍💻 Linguagens
 
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) **Experiência: Alta**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) **Experiência: Alta**
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
